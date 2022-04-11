@@ -1,1 +1,1 @@
-Just a repo to install atom on rdp
+Just a repo to install atomic on rdp
